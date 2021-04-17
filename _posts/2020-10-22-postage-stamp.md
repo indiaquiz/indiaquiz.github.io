@@ -8,7 +8,7 @@ The object shown in the postage stamp is a X, located in the city Y. Y is an anc
 
 
 <p align="center">
-  <img width="800"  src="/assets/postage.jpg">
+  <img width="400"  src="/assets/postage.jpg">
 </p>
 
 The rediscovery of Y is credited to Z, who found it by noticing a discrepancy between the distance calculations prevalent at the time, and distances described by W in his diaries.
