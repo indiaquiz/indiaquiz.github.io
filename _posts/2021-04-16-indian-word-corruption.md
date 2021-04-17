@@ -28,8 +28,8 @@ Identify X, Y, Z, W.
 
 
 
-X: Coromandel
-Y: Cholamandalam
-Z: Cholas
-W: Ashoka
+- X: Coromandel
+- Y: Cholamandalam
+- Z: Cholas
+- W: Ashoka
 
