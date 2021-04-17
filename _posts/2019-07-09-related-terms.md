@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A bunch of closely related terms"
-date: 2021-04-12
+date: 2019-07-09
 ---
 
 The terms X, Y and W are closely related to one another.
