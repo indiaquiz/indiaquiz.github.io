@@ -4,7 +4,7 @@ title: "A shady painting"
 date: 2021-04-12
 ---
 
-This famous painting by Benjamin West in the year 1818 shows a significant event. X is handing a piece of paper to Y.
+This famous painting made by Benjamin West in the year 1818 shows an event that proved _very_ significant to the course of India's history. X is handing a piece of paper to Y.
 
 <p align="center">
   <img width="800"  src="/assets/benjamin.jpg">
