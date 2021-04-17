@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Spike and Slab priors"
-date: 2021-01-24
+title: "Relligion and renunciation"
+date: 2017-01-05
 ---
 
 In 1956, X adopted the religion Y along with almost half a million other followers, leading to a new offshoot of Y called Z. X wrote a book describing the tenets of Z that became the holy book of Z. Among the first vows that a convert had to take when adopting Z was:
