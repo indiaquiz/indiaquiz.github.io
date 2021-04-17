@@ -7,7 +7,7 @@ date: 2021-04-12
 This famous painting by Benjamin West in the year 1818 shows a significant event. X is handing a piece of paper to Y.
 
 <p align="center">
-  <img width="450"  src="/assets/benjamin.jpg">
+  <img width="800"  src="/assets/benjamin.jpg">
 </p>
 
 This question is mostly trivia (it is not possible to easily work out the answer from the clues). 
