@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Relligion and renunciation"
+title: "Religion and renunciation"
 date: 2017-01-05
 ---
 
