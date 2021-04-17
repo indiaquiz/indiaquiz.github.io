@@ -10,6 +10,8 @@ In 1956, X adopted the religion Y along with almost half a million other followe
 
 The original Y had also flourished in its time because of a major patron, W. In 2002, in one of the most significant excavations by the archeological survey of India in recent times, a stunning discovery was made in Kanaganahalli in the Gulbarga district of Karnataka, some 500 km due north of Bangalore. The discovered articles ranged from the 1st century BC to 3rd century AD. The most significant object discovered was an inscribed portrait of W along with his name on it - the very first portrait of W ever to be found (picture below). Ironically, a major portion of the discoveries were found hidden under a place of worship of V.
 
-![image](/assets/kanaganahalli.jpg)
+<p align="center">
+  <img width="320"  src="/assets/kanaganahalli.jpg">
+</p>
 
-Identify X,Y,Z,V and W.
+Identify X, Y, Z, V and W.
