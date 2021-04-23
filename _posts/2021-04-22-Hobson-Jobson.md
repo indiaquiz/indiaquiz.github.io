@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: "Hobson Jobson"
+title: "Religion and renunciation"
 date: 2021-04-22
 ---
 
