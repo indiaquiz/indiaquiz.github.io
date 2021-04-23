@@ -4,7 +4,7 @@ title: "Religion and renunciation"
 date: 2021-04-22
 ---
 
-Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words and Phrases, and of Kindred Terms, Etymological, Historical, Geographical and Discursive is a historical dictionary of Anglo-Indian words and terms from Indian languages which came into use during the British rule in India. It was written by Sir Henry Yule and Arthur Coke Burnell and first published in 1886
+"_Hobson-Jobson: A Glossary of Colloquial Anglo-Indian Words and Phrases, and of Kindred Terms, Etymological, Historical, Geographical and Discursive_" written by Henry Yule and A.C. Burnell in 1886 is a historical dictionary of Anglo-Indian words and terms from Indian languages which came into use during the British rule in India. It was written by Sir Henry Yule and Arthur Coke Burnell and first published in 1886
 
 The term "Hobson Johbson" is shorthand for the assimilation of foreign words to the sound pattern of the adopting language. A number of words have been assimilated into English from Indian languages over the course of colonial rule. Hobson Jobson itself is a corruption of a cry X - then converted to Hosseen Gosseen, Hossy Gossy, Hossein Jossen and, ultimately, Hobson-Jobson
 
