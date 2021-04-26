@@ -15,3 +15,33 @@ The original Y had also flourished in its time because of a major patron, W. In 
 </p>
 
 Identify X, Y, Z, V and W.
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+X: B. R. Ambedkar\
+Y: Buddhism\
+Z: Dalit Buddhism, or Navayana\
+V: Hinduism\
+W: Ashoka
