@@ -12,3 +12,11 @@ X is now a UNESCO world heritage site. The first image below shows an aerial vie
 <p align="center">
   <img width="400"  src="/assets/tigerHunting.jpg">
 </p>
+
+<p align="center">
+  <img width="400"  src="/assets/tigerHunting2.jpg">
+</p>
+
+<p align="center">
+  <img width="400"  src="/assets/tigerHunting3.jpg">
+</p>
